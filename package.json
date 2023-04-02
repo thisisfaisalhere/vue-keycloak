@@ -1,16 +1,16 @@
 {
-  "name": "@baloise/vue-keycloak",
+  "name": "@virusXtech/vue-keycloak",
   "version": "1.4.0",
   "description": "Keycloak plugin for Vue3 and Composition API",
   "author": {
     "name": "Gery Hirschfeld",
-    "email": "gerhard.hirschfeld@baloise.ch",
+    "email": "gerhard.hirschfeld@virusXtech.ch",
     "url": "https://github.com/hirsch88"
   },
-  "homepage": "https://github.com/baloise/vue-keycloak",
+  "homepage": "https://github.com/virusXtech/vue-keycloak",
   "repository": {
     "type": "git",
-    "url": "https://github.com/baloise/vue-keycloak.git"
+    "url": "https://github.com/virusXtech/vue-keycloak.git"
   },
   "scripts": {
     "test": "jest",
